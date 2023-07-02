@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+🔭 I’m currently working on Miah
+🌱 I’m currently learning: Machine Learning
+
 <!--
 **SegisAlonso/SegisAlonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
